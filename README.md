@@ -96,8 +96,8 @@ where("tagsArray", "array-contains", search)
 
 - Firestore em tempo real
 
-👨‍💻 Autor
+👨‍💻 Autor:
 Mikael Carvalho Mendes
 
-📄 Licença
+📄 Licença:
 Este projeto está sob a licença MIT.
